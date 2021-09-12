@@ -1,15 +1,15 @@
 
-<item>
+<dir>
 	<title>[B][COLORorange] See [/COLOR][/B]</title>
 	<link>
 	<sublink>https://raw.githubusercontent.com/freak2021/Seriale_XML/main/See.xml</sublink>
 	</link>
 	<thumbnail></thumbnail>
-</item>
+</dir>
 
-<item>
+<dir>
 	<title>[B][COLORorange][/COLOR][/B]</title>
 	<link>
 	<sublink></sublink>
 	<thumbnail></thumbnail>
-</item>
+</dir>
