@@ -1,12 +1,18 @@
 
 <dir>
+	<title>[B] Seriale - Ekranik.TV [/B]</title>
+	<link>https://raw.githubusercontent.com/freak2021/Seriale_Links_XML/main/Seriale_Ekranik_TV.xml</link>
+	<thumbnail></thumbnail>
+</dir>
+
+<dir>
 	<title>[B] Seriale - GoVod.TV [/B]</title>
 	<link>https://raw.githubusercontent.com/freak2021/Seriale_Links_XML/main/Seriale_GoVod_TV.xml</link>
 	<thumbnail></thumbnail>
 </dir>
 
 <dir>
-	<title>[B] Seriale - Ekranik.TV [/B]</title>
-	<link>https://raw.githubusercontent.com/freak2021/Seriale_Links_XML/main/Seriale_Ekranik_TV.xml</link>
+	<title>[B] Seriale - Hejo.TV [/B]</title>
+	<link>https://raw.githubusercontent.com/freak2021/Seriale_Links_XML/main/Seriale_Hejo_TV.xml</link>
 	<thumbnail></thumbnail>
 </dir>
